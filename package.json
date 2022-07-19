@@ -1,11 +1,11 @@
 {
   "name": "structured-clone-polyfill",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "from core-js polyfill",
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/wwog/lib-template",
+  "homepage": "https://github.com/wwog/sClone",
   "bugs": "https://github.com/wwog/lib-template/issues",
   "types": "./dist/index.d.ts",
   "main": "./dist/index.js",
